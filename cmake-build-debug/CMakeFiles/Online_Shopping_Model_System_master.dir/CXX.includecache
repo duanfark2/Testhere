@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Cshoppingsytem/Online-Shopping-Model-System-master/LRJS.CPP
+fstream
+-
+conio.h
+-
+stdio.h
+-
+cstring
+-
+iostream
+-
+stdlib.h
+-
+

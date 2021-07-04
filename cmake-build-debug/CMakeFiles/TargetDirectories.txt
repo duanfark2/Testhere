@@ -1,0 +1,3 @@
+D:/Cshoppingsytem/Online-Shopping-Model-System-master/cmake-build-debug/CMakeFiles/Online_Shopping_Model_System_master.dir
+D:/Cshoppingsytem/Online-Shopping-Model-System-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cshoppingsytem/Online-Shopping-Model-System-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
